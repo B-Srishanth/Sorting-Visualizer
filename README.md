@@ -21,13 +21,21 @@ Users can customize the array size and animation speed to observe step-by-step s
 ## Project Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # Styling for the visualizer
+
 ├── JavaScript_files/
+
 │ ├── sorting.js # Array generation & utility functions
+
 │ ├── bubble_sort.js # Bubble Sort implementation
+
 │ ├── selection_sort.js # Selection Sort implementation
+
 │ ├── insertion_sort.js # Insertion Sort implementation
+
 │ ├── merge_sort.js # Merge Sort implementation
+
 │ └── quick_sort.js # Quick Sort implementation
 
 ## How It Works
